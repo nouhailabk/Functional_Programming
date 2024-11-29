@@ -1,0 +1,6 @@
+# Ignorer les fichiers volumineux
+output/processed_cve_data_local.json
+src/main/resources/CVE_files/
+target/scala-2.12/classes/CVE_files/
+*.zip
+
